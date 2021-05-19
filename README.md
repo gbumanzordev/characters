@@ -1,4 +1,4 @@
-# marvel
+# Marvel Characters in Vue
 
 ## Project setup
 ```
